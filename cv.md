@@ -10,7 +10,7 @@
 
 ## Shortly about myself
 --- 
-41 year old men trying to radically change his life. Former telecom engineer. Further, husband, son. Living in Almaty, Republic of Kazakhstan.
+41 year old men trying to radically change his life. Former telecom engineer. Father, husband, son. Living in Almaty, Republic of Kazakhstan.
 
 ## Skills 
 ---- 
@@ -23,7 +23,7 @@ Related to course:
 - C# (Fundamentals)
 - Familiar with design tools: Photoshop, AdobeXD, Figma
 
-Non related to course:
+Non-related to course:
 
 - Blender
 
@@ -37,7 +37,7 @@ Complete the solution so that it reverses the string passed into it.
 Example:
 
 > 'world'  =>  'dlrow'\
-> 'word'   =>  'drow'
+> 'it is rose'   =>  'esor si ti'
 
 ***My solution***
 
@@ -59,6 +59,15 @@ console.log(solution(string));
 Al-Farabi Kazkh State University, Physics department
 
 [Front end developer (in progress)](https://skillbox.ru/)
+
+## Languages
+
+- Russian - native
+
+- English, advanced level according test [EFSET](https://www.efset.org/). Test date: 12/11/2022
+![result](eng_test_resilts.jpg)
+
+- TOEFL, 6.2 average score. Passed test 5-6 years ago.
 
 
 
