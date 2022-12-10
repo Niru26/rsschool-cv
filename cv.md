@@ -1,6 +1,7 @@
 # Rudakov Nikolay
 
  ## Contacts
+
  ---
 
 - phone: +7 (771) 331 63 20
@@ -9,11 +10,13 @@
 - telegram: https://t.me/nirunort
 
 ## Shortly about myself
+
 --- 
 41 year old men trying to radically change his life. Former telecom engineer. Father, husband, son. Living in Almaty, Republic of Kazakhstan.
 
 ## Skills 
----- 
+
+--- 
 
 Related to course:
     
@@ -28,6 +31,7 @@ Non-related to course:
 - Blender
 
 ## Code example
+
 ---
 
 ***Codewar task***
@@ -64,7 +68,10 @@ Al-Farabi Kazkh State University, Physics department
 
 - Russian - native
 
-- English, advanced level according test [EFSET](https://www.efset.org/). Test date: 12/11/2022
+- English, advanced level according test 
+
+[EFSET](https://www.efset.org/). Test date: 12/11/2022
+
 ![result](eng_test_resilts.jpg)
 
 - TOEFL, 6.2 average score. Passed test 5-6 years ago.
