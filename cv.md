@@ -12,6 +12,23 @@
 --- 
 41 year old men trying to radically change his life. Former telecom engineer. Further, husband, son. Living in Almaty, Republic of Kazakhstan.
 
+## Skills 
+---- 
+
+Related to course:
+    
+- HTML/CSS
+- Bootsrap 3
+- JavaScript (Fundamentals)
+- C# (Fundamentals)
+- Familiar with design tools: Photoshop, AdobeXD, Figma
+
+Non related to course:
+
+- Blender
+
+
+
 
 
 
