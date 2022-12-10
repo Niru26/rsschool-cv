@@ -39,6 +39,7 @@ Example:
 > 'world'  =>  'dlrow'\
 > 'word'   =>  'drow'
 
+***My solution***
 
 ```
 const string = 'word'
@@ -52,6 +53,12 @@ function solution(str) {
 }
 console.log(solution(string));
 ```
+
+## Education 
+---
+Al-Farabi Kazkh State University, Physics department
+
+[Front end developer (in progress)](https://skillbox.ru/)
 
 
 
