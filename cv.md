@@ -2,8 +2,6 @@
 
  ## Contacts
 
- ---
-
 - phone: +7 (771) 331 63 20
 - e-mail: nikolayrudakov@mail.ru
 - discord: cpt.Jalliko (@Niru26)
@@ -11,12 +9,9 @@
 
 ## Shortly about myself
 
---- 
 41 year old men trying to radically change his life. Former telecom engineer. Father, husband, son. Living in Almaty, Republic of Kazakhstan.
 
 ## Skills 
-
---- 
 
 Related to course:
     
@@ -31,8 +26,6 @@ Non-related to course:
 - Blender
 
 ## Code example
-
----
 
 ***Codewar task***
 
@@ -59,7 +52,7 @@ console.log(solution(string));
 ```
 
 ## Education 
----
+
 Al-Farabi Kazkh State University, Physics department
 
 [Front end developer (in progress)](https://skillbox.ru/)
