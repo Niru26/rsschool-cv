@@ -27,7 +27,31 @@ Non related to course:
 
 - Blender
 
+## Code example
+---
 
+***Codewar task***
+
+Complete the solution so that it reverses the string passed into it.
+
+Example:
+
+> 'world'  =>  'dlrow'\
+> 'word'   =>  'drow'
+
+
+```
+const string = 'word'
+
+function solution(str) {
+    let polindrome = [];
+    for (let i = 1; i <= str.length; i++) {
+        polindrome.push(str[str.length - i]);
+    };
+    return polindrome.join('');
+}
+console.log(solution(string));
+```
 
 
 
