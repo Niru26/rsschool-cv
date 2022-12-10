@@ -8,6 +8,10 @@
 - discord: cpt.Jalliko (@Niru26)
 - telegram: https://t.me/nirunort
 
+## Shortly about myself
+--- 
+41 year old men trying to radically change his life. Former telecom engineer. Further, husband, son. Living in Almaty, Republic of Kazakhstan.
+
 
 
 
