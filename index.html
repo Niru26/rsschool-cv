@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="assets/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,300;0,400;0,700;1,300&display=swap"
+    rel="stylesheet">
+  <title>CV Rudakov Nikolay</title>
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav_list">
+          <li class="nav_item"><a href="#contacts" class="nav_link">Contacts</a></li>
+          <li class="nav_item"><a href="#profile" class="nav_link">Profile</a></li>
+          <li class="nav_item"><a href="#skills" class="nav_link">Skills</a></li>
+          <li class="nav_item"><a href="#code" class="nav_link">Code</a></li>
+          <li class="nav_item"><a href="#courses" class="nav_link">Courses</a></li>
+          <li class="nav_item"><a href="#education" class="nav_link">Education</a></li>
+          <li class="nav_item"><a href="#languages" class="nav_link">Languages</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <div class="container">
+    <main class="main main_container">
+      <img src="./assets/img/photo_edited.jpg" alt="Nikolay Rudakov foto with his cat Scooby" class="image image_avatar">
+      <section class="section">
+        <h1 class="section_title">Rudakov Nikolay</h1>
+        <p>RS_School student</p>
+      </section>
+      <section id="contacts" class="section">
+        <h2 class="section_title">Contacts</h2>
+        <ul class="contact_list">
+          <li class="main_list_item contact_item">
+            <a href="#" class="contact_item_link nav_link">
+              phone: +7 (771) 331 63 20
+            </a>
+          </li>
+          <li class="main_list_item contact_item">
+            <a href="#" class="contact_item_link nav_link">
+              e-mail: nikolayrudakov@mail.ru
+            </a>
+          </li>
+          <li class="main_list_item contact_item">
+            <a href="#" class="contact_item_link nav_link">
+              discord: cpt.Jalliko (@Niru26)
+            </a>
+          </li>
+          <li class="main_list_item contact_item">
+            <a href="#" class="contact_item_link nav_link">
+              telegram: https://t.me/nirunort
+            </a>
+          </li>
+        </ul>
+      </section>
+      <section id="profile" class="section">
+        <h2 class="section_title">Profile</h2>
+        <p class="text">41 year old men trying to radically change his life. Former telecom engineer. Father, husband,
+          son. Living in Almaty, Republic of Kazakhstan.</p>
+      </section>
+      <section id="skills" class="section">
+        <h2 class="section_title">Skills</h2>
+        <ul class="skills_list">
+          <li class="skills_item">HTML/CSS</li>
+          <li class="skills_item">Bootsrap 3</li>
+          <li class="skills_item">JavaScript (Fundamentals)</li>
+          <li class="skills_item">C# (Fundamentals)</li>
+          <li class="skills_item">Familiar with design tools: Photoshop, AdobeXD, Figma</li>
+        </ul>
+        <h3 class="sub_section_title">Non-related to course:</h3>
+        <p class="text">Blender</p>
+      </section>
+      <section id="code" class="section">
+        <h2 class="section_title">Code</h2>
+        <h3 class="sub_section_title">Codewar task:</h3>
+        <p class="text">Complete the solution so that it reverses the string passed into it.</p>
+        <h3 class="sub_section_title">Example</h3>
+        <pre>
+          'world' &#61;&#62; 'dlrow'\
+          'it is rose' &#61;&#62; 'esor si ti'
+          </pre>
+        <h3 class="sub_section_title">My solution</h3>
+        <pre>
+          <code>
+            const string = 'word'
+
+            function solution(str) {
+                let polindrome = [];
+                for (let i = 1; i &#60;&#61; str.length; i++) {
+                    polindrome.push(str[str.length - i]);
+                };
+                return polindrome.join('');
+            }
+            console.log(solution(string));
+          </code>
+        </pre>
+      </section>
+      <section id="courses" class="section">
+        <h2 class="section_title">Courses</h2>
+        <ul class="course_list">
+          <li class="course_item">Skillbox.ru, front-end developer</li>
+          <li class="course_item">Different Udemy.com courses</li>
+        </ul>
+      </section>
+      <section id="education" class="section">
+        <h2 class="section_title">Education</h2>
+        <p class="text">Al-Farabi Kazkh State University, Physics department</p>
+      </section>
+      <section id="languages" class="section">
+        <h2 class="section_title">Languages</h2>
+        <ul class="languages_list">
+          <li class="languages_item">Russian - native</li>
+          <li class="languages_item">English, advanced level according test</li>
+        </ul>
+        <p class="text">
+          <a href="https://www.efset.org" class="link">EFSET</a> Test date: 12/11/2022
+        </p>
+        <img class="image" src="./assets/img/eng_test_resilts.jpg" alt="site screenshot of test result">
+      </section>
+    </main>
+  </div>
+  <div class="container">
+    <footer class="footer">
+      <a href="https://rs.school/js/" class="link"><div class="logo"></div></a>
+    </footer>
+  </div>
+</body>
+
+</html>
