@@ -86,8 +86,8 @@
         <p class="text">Complete the solution so that it reverses the string passed into it.</p>
         <h3 class="sub_section_title">Example</h3>
         <pre>
-          'world' &#8925 'dlrow'\
-          'it is rose' &#8925 'esor si ti'
+          'world' &#61;&#62; 'dlrow'\
+          'it is rose' &#61;&#62; 'esor si ti'
           </pre>
         <h3 class="sub_section_title">My solution</h3>
         <pre>
@@ -96,7 +96,7 @@
 
             function solution(str) {
                 let polindrome = [];
-                for (let i = 1; i &#8924 str.length; i++) {
+                for (let i = 1; i &#60;&#61; str.length; i++) {
                     polindrome.push(str[str.length - i]);
                 };
                 return polindrome.join('');
