@@ -1,0 +1,49 @@
+:root {
+  /* colors */
+  --color-primary: hsl(184, 100.0, 32.5);
+  --color-secondary: hsl(49, 100, 50);
+  --color-black: hsl(0, 0, 0);
+  /* fonts */
+  --font-family-primary: 'Roboto', serif;
+  --font-family-accent: 'Loro', san-serif;
+  /* sizes */
+  --font-size-300: .875rem;
+  --font-size-600: 1rem;
+  --font-size-700: 1.875rem;
+  --font-size-800: 2.5rem;
+  --font-size-900: 3.5rem;
+  /* weight */
+  --font-weight-regular: 400;
+  --font-weight-semi-bold: 500;
+  --font-weight-bold: 700;
+
+}
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin */
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+.serif {
+  font-size: 2rem;
+  font-family: var(--font-family-primary);
+}
+
+.sans_serif {
+  font-size: 2rem;
+  font-family: 'Lora', sans-serif;
+}
+
+.central_container {
+  width: 80%;
+  margin: 0 auto;
+}
